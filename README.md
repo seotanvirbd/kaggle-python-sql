@@ -1,4 +1,4 @@
-# End-to-End Data Analysis: From Kaggle API to Pandas Data Cleanning to PostgreSQL Data Analysis to Power BI Dashboards
+# End-to-End Data Analysis: From Kaggle API to Pandas Data Cleaning to PostgreSQL Data Analysis to Power BI Dashboards
 
 ## 📊 Project Overview
 ![Project Flow](https://github.com/seotanvirbd/kaggle-python-sql/blob/main/DATA_ANALYSIS.png)
@@ -45,8 +45,8 @@ A comprehensive data analysis project that demonstrates the complete data pipeli
 				discount decimal(7,2),
 				sale_price decimal(7,2),
 				profit decimal(7,2));
+      ```
 
-```
 
 4. **Data Analysis**
 Key insights revealed through SQL analysis:
@@ -57,6 +57,7 @@ Key insights revealed through SQL analysis:
 - Sub-category profit growth analysis
 
   # 📊 SQL Query Explanations with Emojis 🌟
+
 
 ---
 
